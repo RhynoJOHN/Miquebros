@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xe0ff25948a05C84A566E7399A034d5A761d3B748",
+  "SCAN_LINK": "https://polygonscan.com/address/0xe0ff25948a05c84a566e7399a034d5a761d3b748",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Miquebabies",
+  "SYMBOL": "MQB",
+  "MAX_SUPPLY": 2064,
+  "WEI_COST": 2000000000000000000,
+  "DISPLAY_COST": 2,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/miquebabies",
+  "SHOW_BACKGROUND": true
+}

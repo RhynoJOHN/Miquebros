@@ -9,10 +9,10 @@
   "NFT_NAME": "Miquebabies",
   "SYMBOL": "MQB",
   "MAX_SUPPLY": 2064,
-  "WEI_COST": 2000000000000000000,
-  "DISPLAY_COST": 2,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
   "GAS_LIMIT": 285000,
-  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE": "Opensea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/miquebabies",
   "SHOW_BACKGROUND": true
 }
